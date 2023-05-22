@@ -3,4 +3,4 @@ bs4==0.0.1
 colour==0.1.5
 fake-useragent==0.1.11
 plotly==4.2.1
-requests==2.20.0
+requests==2.31.0
